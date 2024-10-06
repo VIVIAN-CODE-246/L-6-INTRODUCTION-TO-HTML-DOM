@@ -1,0 +1,4 @@
+function book(){
+    document.getElementById("website").innerHTML="COOL WEBSITE"
+}
+document.body.style.backgroundColor = "teal"
